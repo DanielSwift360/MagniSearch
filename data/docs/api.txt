@@ -1,0 +1,16 @@
+<form action="http://www.google.com/search" method="get">
+<div style="border: 2px dotted black; padding: 4px; width: 15em; text-align: center;"><img src="Logo Here" width="158" height="66" />
+<table border="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><input style="color: #808080;" maxlength="255" name="q" size="25" type="text" value="Your Value Here" /> <input type="submit" value="Search" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+</form>
+
+
+
+
+Copy And Paste On Your HTML Editor (Or Notepad) (Dont Copy & Paste This)
